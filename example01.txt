@@ -1,2 +1,2 @@
 line 1: This is an example file for learning git
-
+line 2: added this line to test out git diff function
